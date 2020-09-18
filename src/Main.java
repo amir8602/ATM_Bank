@@ -11,7 +11,6 @@ public class Main {
         customers.add(customer2);
         for (Customer customer1 : customers) {
             System.out.println(customer1.toString());
-            System.out.println("meooooowww");
         }
 
     }
