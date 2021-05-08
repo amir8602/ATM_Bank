@@ -1,6 +1,7 @@
 import java.util.LinkedList;
 
 public class Main {
+    //Arshia what?
     public static void main(String[] args) {
 
         LinkedList<Customer> customers= new LinkedList<Customer>();
@@ -11,8 +12,9 @@ public class Main {
         customers.add(customer2);
         for (Customer customer1 : customers) {
             System.out.println(customer1.toString());
-
+            
         }
 
     }
+System.out.println("hhh");
 }
